@@ -1,0 +1,16 @@
+
+dataset/
+processed_dataset/
+UrbanSound8K/
+
+
+*.wav
+
+
+__pycache__/
+*.pyc
+
+
+.DS_Store
+
+
